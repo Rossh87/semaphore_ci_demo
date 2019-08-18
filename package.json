@@ -1,0 +1,8 @@
+{
+  "name": "jenkins_demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rossh87/semaphore_ci_demo",
+  "author": "<hunter.dev.87@gmail.com>",
+  "license": "MIT"
+}
